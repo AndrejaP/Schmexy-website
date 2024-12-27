@@ -6,8 +6,6 @@ Welcome to the **Schmexy Cookie** website repository! This project is a fun and 
 You can visit the live Schmexy Cookie website here:  
 👉 [Schmexy Cookie Website](https://andrejap.github.io/Schmexy-website/)  
 
-_(Replace `your-github-username` with your actual GitHub username.)_
-
 ---
 
 ## 🛠 Features  
